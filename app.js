@@ -21,7 +21,7 @@ app.use(express.urlencoded({
   extended: true
 }));
 app.use(fileUpload({
-  debug: true
+  debug: false
 }));
 
 app.get('/', (req, res) => {
