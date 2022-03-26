@@ -22,10 +22,18 @@
     "http": "0.0.1-security",
     "mime-types": "^2.1.32",
     "qrcode": "^1.4.4",
-    "socket.io": "^2.4.1",
+    "socket.io": "^4.4.1",
     "whatsapp-web.js": "latest"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoseinhajipour/whatsapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hoseinhajipour/whatsapp/issues"
+  },
+  "homepage": "https://github.com/hoseinhajipour/whatsapp#readme"
 }
